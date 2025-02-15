@@ -1,3 +1,6 @@
+// TC -> O(n)
+// SC -> O(n)
+
 public class Solution
 {
     public class TrieNode
